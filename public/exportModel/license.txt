@@ -1,0 +1,11 @@
+Model Information:
+* title:	Rover
+* source:	https://sketchfab.com/3d-models/rover-6b79e3bea34e42f38b02ce0ae06f0aee
+* author:	HallowDragon (https://sketchfab.com/HallowDragon)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Rover" (https://sketchfab.com/3d-models/rover-6b79e3bea34e42f38b02ce0ae06f0aee) by HallowDragon (https://sketchfab.com/HallowDragon) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
